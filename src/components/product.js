@@ -2,7 +2,7 @@ export const product = [
     {
        id: 1,
     title: "Microsoft Su",
-    description: "Purple in color",
+    description: "Grey in color",
     price: "85000",
     img:  "https://dummyjson.com/image/i/products/8/thumbnail.jpg",
     quantity: 1
@@ -73,28 +73,28 @@ export const product = [
 
     {
     id: 9,
-    title: "Redmi 8pro",
-    description: "Red in color",
+    title: "INFINIX INBO",
+    description: "Greenish in color",
     price: "95000",
-    img: "https://images-na.ssl-images-amazon.com/images/I/71hIfcIPyxS._SL1500_.jpg", 
+    img: "https://dummyjson.com/image/i/products/9/thumbnail.jpg", 
     quantity: 1
     },
 
     {
     id: 10,
-    title: "Oppo",
-    description: "Black in color",
+    title: "Handcraft",
+    description: "Material Glass",
     price: "19000",
-    img:  "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    img:  "https://dummyjson.com/image/i/products/29/thumbnail.webp",
     quantity: 1
     },
 
     {
     id: 11,
-    title: "Redmi 9",
-    description: "Gold in color",
-    price: "12000",
-    img:  "https://images-na.ssl-images-amazon.com/images/I/71A9Vo1BatL._SL1500_.jpg",
+    title: "FOGG",
+    description: "Fresh Fougere",
+    price: "300",
+    img:  "https://dummyjson.com/image/i/products/13/thumbnail.webp",
     quantity: 1
     },
 ];
