@@ -26,7 +26,7 @@ export const product = [
     
     
      {
-    id: 2,
+    id: 4,
     title: "macbook",
     description: "White in color",
     price: "125000",
@@ -35,7 +35,7 @@ export const product = [
     },
 
     {
-    id: 3,
+    id: 5,
     title: "Redmi 9",
     description: "Black in color",
     price: "20000",
@@ -44,7 +44,7 @@ export const product = [
     },
 
     {
-    id: 4,
+    id: 6,
     title: "Galaxy S9",
     description: "White in color",
     price: "33000",
@@ -53,7 +53,7 @@ export const product = [
     },
 
     {
-    id: 5,
+    id: 7,
     title: "Oppo",
     description: "Black in color",
     price: "21000",
@@ -62,7 +62,7 @@ export const product = [
     },
 
     {
-    id: 6,
+    id: 8,
     title: "iphone 11",
     description: "Blue in color",
     price: "55000",
@@ -71,7 +71,7 @@ export const product = [
     },
 
     {
-    id: 7,
+    id: 9,
     title: "Redmi 8pro",
     description: "Red in color",
     price: "95000",
@@ -80,7 +80,7 @@ export const product = [
     },
 
     {
-    id: 8,
+    id: 10,
     title: "Oppo",
     description: "Black in color",
     price: "19000",
@@ -89,7 +89,7 @@ export const product = [
     },
 
     {
-    id: 9,
+    id: 11,
     title: "Redmi 9",
     description: "Gold in color",
     price: "12000",
