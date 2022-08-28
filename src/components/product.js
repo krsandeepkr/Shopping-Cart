@@ -7,7 +7,8 @@ export const product = [
     img:  "https://dummyjson.com/image/i/products/8/thumbnail.jpg",
     quantity: 1
     },  
-        
+    
+    {    
     id: 2,
     title: "iphone 13pro",
     description: "Purple in color",
@@ -15,7 +16,7 @@ export const product = [
     img:  "https://images-na.ssl-images-amazon.com/images/I/71hIfcIPyxS._SL1500_.jpg",
     quantity: 1
     },
-        
+    {
         id: 3,
     title: "3D Embellish",
     description: "Mettaic in color",
