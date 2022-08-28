@@ -38,7 +38,7 @@ export const product = [
     {
     id: 5,
     title: "iphone 11",
-    description: "Grey in color",
+    description: "Blue in color",
     price: "55000",
     img:   "https://images-na.ssl-images-amazon.com/images/I/71hIfcIPyxS._SL1500_.jpg",
     quantity: 1
@@ -47,7 +47,7 @@ export const product = [
     {
     id: 6,
     title: "Redmi 8pro",
-    description: "Grey in color",
+    description: "Red in color",
     price: "95000",
     img: "https://images-na.ssl-images-amazon.com/images/I/71hIfcIPyxS._SL1500_.jpg", 
     quantity: 1
