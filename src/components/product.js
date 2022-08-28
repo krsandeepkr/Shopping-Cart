@@ -82,10 +82,10 @@ export const product = [
 
     {
     id: 10,
-    title: "Handcraft",
-    description: "Material Glass",
-    price: "19000",
-    img:  "https://dummyjson.com/image/i/products/29/thumbnail.webp",
+    title: "Key Holder",
+    description: "Material Brass",
+    price: "1000",
+    img:  "https://dummyjson.com/image/i/products/30/thumbnail.jpg",
     quantity: 1
     },
 
