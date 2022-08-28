@@ -19,7 +19,7 @@ export const product = [
     {
         id: 3,
     title: "3D Embellish",
-    description: "Mettaic in color",
+    description: "Mettalic Material ",
     price: "5000",
     img:  "https://dummyjson.com/image/i/products/28/thumbnail.jpg",
     quantity: 1
