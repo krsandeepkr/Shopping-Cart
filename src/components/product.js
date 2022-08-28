@@ -7,9 +7,18 @@ export const product = [
     img:  "https://images-na.ssl-images-amazon.com/images/I/71hIfcIPyxS._SL1500_.jpg",
     quantity: 1
     },
+    
+     {
+    id: 2,
+    title: "macbook",
+    description: "White in color",
+    price: "125000",
+    img:  "https://dummyjson.com/image/i/products/6/thumbnail.png",
+    quantity: 1
+    },
 
     {
-    id: 2,
+    id: 3,
     title: "Redmi 9",
     description: "Black in color",
     price: "20000",
@@ -18,7 +27,7 @@ export const product = [
     },
 
     {
-    id: 3,
+    id: 4,
     title: "Galaxy S9",
     description: "White in color",
     price: "33000",
@@ -27,7 +36,7 @@ export const product = [
     },
 
     {
-    id: 4,
+    id: 5,
     title: "Oppo",
     description: "Black in color",
     price: "21000",
@@ -36,7 +45,7 @@ export const product = [
     },
 
     {
-    id: 5,
+    id: 6,
     title: "iphone 11",
     description: "Blue in color",
     price: "55000",
@@ -45,7 +54,7 @@ export const product = [
     },
 
     {
-    id: 6,
+    id: 7,
     title: "Redmi 8pro",
     description: "Red in color",
     price: "95000",
@@ -54,7 +63,7 @@ export const product = [
     },
 
     {
-    id: 7,
+    id: 8,
     title: "Oppo",
     description: "Black in color",
     price: "19000",
@@ -63,7 +72,7 @@ export const product = [
     },
 
     {
-    id: 8,
+    id: 9,
     title: "Redmi 9",
     description: "Gold in color",
     price: "12000",
