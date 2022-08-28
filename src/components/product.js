@@ -16,6 +16,7 @@ export const product = [
     img:  "https://images-na.ssl-images-amazon.com/images/I/71hIfcIPyxS._SL1500_.jpg",
     quantity: 1
     },
+    
     {
         id: 3,
     title: "3D Embellish",
@@ -25,8 +26,7 @@ export const product = [
     quantity: 1
     },
     
-    
-     {
+    {
     id: 4,
     title: "macbook",
     description: "White in color",
