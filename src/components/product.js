@@ -37,7 +37,7 @@ export const product = [
 
     {
     id: 5,
-    title: "iphone 13pro",
+    title: "iphone 11",
     description: "Grey in color",
     price: "55000",
     img:   "https://images-na.ssl-images-amazon.com/images/I/71hIfcIPyxS._SL1500_.jpg",
@@ -46,7 +46,7 @@ export const product = [
 
     {
     id: 6,
-    title: "iphone 13pro",
+    title: "Redmi 8pro",
     description: "Grey in color",
     price: "95000",
     img: "https://images-na.ssl-images-amazon.com/images/I/71hIfcIPyxS._SL1500_.jpg", 
