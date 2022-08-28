@@ -10,16 +10,16 @@ export const product = [
         
     id: 2,
     title: "iphone 13pro",
-    description: "Mettalic in color",
-    price: "85000",
+    description: "Purple in color",
+    price: "95000",
     img:  "https://images-na.ssl-images-amazon.com/images/I/71hIfcIPyxS._SL1500_.jpg",
     quantity: 1
     },
         
         id: 3,
     title: "3D Embellish",
-    description: "Purple in color",
-    price: "85000",
+    description: "Mettaic in color",
+    price: "5000",
     img:  "https://dummyjson.com/image/i/products/28/thumbnail.jpg",
     quantity: 1
     },
